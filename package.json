@@ -1,8 +1,0 @@
-{
-  "name": "my-workspaces-powered-project",
-  "workspaces": [
-    "asapp-api",
-    "asapp-client",
-    "asapp-server"
-  ]
-}
